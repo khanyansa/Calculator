@@ -24,7 +24,7 @@
     width: 60px;
     height: 60px;
     margin: 7px;
-    box-shadow: -2px -2px 2px rgba(104, 109, 182, 0.529), 2px 2px 2px rgba(231, 228, 228, 0.71);
+    box-shadow: -2px -2px 2px rgba(104, 109, 182, 0.529), 1px 1px 2px rgba(231, 228, 228, 0.71);
     border-radius: 50px;
     border: none;
     outline: none;
